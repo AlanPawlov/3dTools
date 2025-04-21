@@ -1,4 +1,4 @@
-public class MeshStretchPreservingEnds : MonoBehaviour
+public class MeshStretcher : MonoBehaviour
 {
     [Range(1f, 10f)] public float Size = 2f;
 
